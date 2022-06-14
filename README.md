@@ -1,8 +1,9 @@
 ## Hi there<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px" height="40px">I'm [Alejandro Ramírez](https://jano.dev/)
-I develop iOS apps written in Swift/Objective-C. I work remotely from Spain.
+I develop iOS apps written in Swift/Objective-C. I work remotely from Spain. I’m also at [janodevorg](https://github.com/janodevorg).
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Local SPM and self-host GitHub Actions](https://jano.dev/programming/2022/04/16/local-spm-ga.html)
 - [Structured Concurrency](https://jano.dev/programming/2021/10/28/structured-concurrency.html)
 - [Viper does not spark joy](https://jano.dev/programming/2019/07/19/should-i-use-viper.html)
 - [Moving to London](https://jano.dev/london/2018/11/06/moving-to-london.html)
