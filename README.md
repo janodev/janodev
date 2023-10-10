@@ -1,4 +1,5 @@
-## Hi there<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px" height="40px">I'm [Alejandro Ramírez](https://jano.dev/)
+## Hi there 
+<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40px" height="40px">I'm [Alejandro Ramírez](https://jano.dev/)
 I develop iOS apps written in Swift/Objective-C. I work remotely from Spain. 
 <br/>I’m also at [janodevorg](https://github.com/janodevorg).
 
