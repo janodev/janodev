@@ -7,7 +7,6 @@ I develop iOS apps written in Swift/Objective-C. I work remotely from Spain.
 <!-- BLOG-POST-LIST:START -->
 - [Local SPM and self-host GitHub Actions](https://jano.dev/programming/2022/04/16/local-spm-ga.html)
 - [Structured Concurrency](https://jano.dev/programming/2021/10/28/structured-concurrency.html)
-- [Viper does not spark joy](https://jano.dev/programming/2019/07/19/should-i-use-viper.html)
 - [Moving to London](https://jano.dev/london/2018/11/06/moving-to-london.html)
 - [Secure Apache with Client-Authenticated TLS Handshake](https://jano.dev/apache/ssl/2018/10/05/client-certification-authorization.html)
 - [Install Mediawiki in Lightsail](https://jano.dev/lightsail/mediawiki/2018/10/04/install-mediawiki-in-lightsail.html)
